@@ -1,0 +1,58 @@
+<resources>
+    <string name="app_name">TrashQuest</string>
+    <string name="title">Trash Quest</string>
+    <string name="enter_quest">Enter the quest !</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="register_pseudo">supertrieur1060</string>
+    <string name="register_cp">Pour connaitre le calendrier des collectes dans votre commune merci de renseigner votre code postal :</string>
+    <string name="register_explain">Trash Quest est une application d\'aide au tri sélectif pour les habitants des 19 communes de Bruxelles. Pour poursuivre votre quête merci de compléter ce tout petit formulaire garanti \n 💯% zéro déchet !\n ♡♡♡</string>
+    <string name="register_login">Veuillez créer votre login</string>
+    <string name="title_activity_menu">Menu</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="title_activity_menu_principal">MenuPrincipal</string>
+    <string name="menu_menu_principal">Menu Principal</string>
+    <string name="menu_guide">Guide</string>
+    <string name="menu_calendrier">Calendrier</string>
+    <string name="menu_media">Média</string>
+    <string name="register_enregistrer">Enregistrer</string>
+    <string name="explain_lets_go">Let\'s go !</string>
+    <string name="explain_explain">Bienvenue dans votre Trash Quest !\n\nAlors comment ça marche ?\n\nAvant de commmencer votre aventure, sachez qu\'en moyenne chaque habitant de Bruxelles produit 400 kilo de déchets (essentiellement ménagers) par an*.\n\nVotre mission, si vous l\'acceptez, est de réduire votre part !\n\nDans Trash Quest vous trouverez :\n- Un guide du recyclage pour pratiquer au mieux le tri sélectif,\n- Un calendrier des dates de sortie des poubelles dans votre commune pour ne plus jamais rater le passage des éboueurs,\n- Un espace média avec des articles pour en savoir plus sur le tri et les initiatives locales.\n\nLa réduction des déchets est une épopée collective, n\'hésitez pas à faire découvrir Trash Quest à vos proches ou à vos voisons pour qu\'ensemble nous créions la ville plus propre de demain !</string>
+    <string name="search_by_trashbin">Recherche par poubelle</string>
+    <string name="search_by_type">Recherche par type de déchêt</string>
+    <string name="search_by_produce">Recherche par produit</string>
+    <string name="guide_tittle">Guide du recyclage</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="oliobox_title">Oliobox</string>
+    <string name="oliobox_comment">Les oliobox sont des bacs de récupération des huiles et graisses de friture.\nVoici la liste des points de collecte dans votre commune : </string>
+
+    <string name="recuptextile_title">Bulles de collecte</string>
+    <string name="recuptextile_comment">Donnez une seconde vie à vos vêtements grâce aux points de collecte.\n60% des vêtements collectés sont réutilisables, 35% vont être recyclés en matières premières et seulement 5% constituent des déchets non valorisable.\nLes bulles de collecte dans votre commune :</string>
+
+    <string name="parc_title">Parcs à conteneur</string>
+    <string name="electro_comment">Les appareils électroménagers en fin de vie doivent être amenés au parc à conteneur de manière à être traités et démenbrés correctement.\nVoici la liste des parcs autour de Bruxelles :</string>
+    <string name="multimedia_comment">Vos appareils multimédias contiennent des composants hautement polluants qui doivent impérativement être traités dans des parcs à conteneur.\nVoici la liste des parcs autour de Bruxelles :</string>
+
+    <string name="lightbulb_title">Récupération ampoules et néons</string>
+    <string name="lightbubl_comment">Nombreux sont les magasins qui récupèrent les ampoules et les néons. Ce recyclage sert à récupérer le verre pour fabriquer de nouveaux produits (papier de verre etc...) ainsi qu\'à neutraliser le mercure présent dans les lampes.\Voici la liste des points de collecte dans votre commune :</string>
+
+    <string name="battery_title">Récupération piles</string>
+    <string name="battery_comment">Le mot pile recouvre bien des produits : les piles AA, les piles boutons (à placer sur un bout de papier collant pour éviter les courts circuits avec les autres piles), les piles 9 volts (placer un bout de papier collant sur les antennes), les batteries d\'appareils photos, d\'ordinateur, de téléphone et d\'appareils de bricolage, les batteries externes, les piles 4.5 Volts et les piles à ressort (placer un bout de papier colant sur les antennes).\nAttention, les batteries de voiture, de vélo électrique, les blocs batterie et les piles qui fuient doivent être apportées au parc à conteneur !\nVoici la liste des points de collecte dans votre commune :</string>
+
+    <string name="deadanimals_title">Cadavres d\'animaux de compagnie</string>
+    <string name="deadanimals_comment">Lorsque votre compagnon vous quitte il n\'est pas toujours possible ni même autorisé de l\'enterrer dans votre jardin. Confiez donc le cadavre à votre vétérinaire ou bien aux centres listés ci-dessous.\nSi vous trouvez un animal mort ou bléssé dans un parc ou une forêt de la région bruxelloise merci de contacter le service Info-Environnement au 02/775 75 75.\nSi vous trouvez un animal mort sur votre propriété ou sur la voierie communale merci de contacter Bruxelles Propreté au 08/009 81 81.</string>
+    <string name="under_construction">Cette partie du guide est toujours en construction et sera bientôt disponible !</string>
+    <string name="credit">Crédit</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="thanku">Un grand merci à :\n- Tristan pour ses conseils et ses solutions magiques,\n- Grégory et Aurélien pour l\'aide et l\'apprentissage,\n- Mes camarades de formation, pour vos conseils,\n- L\'association Ressources ASBL pour les coordonnées des bulles textiles,\n- Guillaume pour sa patience et d\'être toujours là,</string>
+    <string name="todo">Les développements à venir :\n- Un média pour se tenir au courant des initiatives locales en matière d\'écologie,\n- Une amélioration du guide du recyclage vers plus de précision,\n- La possiblité d\'ajouter des notes sur votre calendrier de collecte.</string>
+
+</resources>

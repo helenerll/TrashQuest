@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity"
+    android:orientation="vertical"
+    android:gravity="center_horizontal"
+    android:background="@mipmap/background"
+    >
+
+
+    <ImageView
+        android:layout_width="300dp"
+        android:layout_height="167dp"
+        android:layout_marginBottom="15dp"
+        android:layout_marginTop="25dp"
+        android:src="@mipmap/title" />
+
+    <ImageView
+        android:id="@+id/iv_main_logo"
+        android:layout_width="93dp"
+        android:layout_height="91dp"
+        android:src="@mipmap/logo"
+        android:layout_marginBottom="15dp"/>
+
+
+    <EditText
+        android:id="@+id/et_welcome_login"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="25dp"
+        android:layout_marginTop="10dp"
+        android:hint="@string/login"
+        android:textColor="@color/black"
+
+        android:text="Haha"/>
+
+
+    <Button
+        android:id="@+id/btn_welcome_enter"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginRight="90dp"
+        android:layout_marginLeft="90dp"
+        android:layout_marginTop="10dp"
+        android:background="@drawable/display_menu_guide"
+        android:text="@string/enter_quest"
+        android:textAllCaps="false"
+        android:textColor="@color/white"
+        android:textSize="15dp"
+        android:layout_marginBottom="20dp"
+        android:backgroundTint="@color/colorPrimaryDark"
+        />
+
+    <Button
+        android:id="@+id/btn_welcome_register"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="90dp"
+        android:layout_marginRight="90dp"
+        android:backgroundTint="@color/colorPrimaryDark"
+        android:text="Not a guild member ? \n Register now !"
+        android:textAllCaps="false"
+        android:textColor="@color/white"
+        android:textSize="15dp"
+        android:background="@drawable/display_menu_guide"/>
+
+</LinearLayout>

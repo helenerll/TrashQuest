@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/action_guide"
+        android:enabled="true"
+        android:icon="@mipmap/guide_bleu"
+        android:title="@string/menu_guide"
+        app:showAsAction="withText" />
+    <item
+        android:id="@+id/action_calendar"
+        android:enabled="true"
+        android:icon="@mipmap/calendrier_jaune"
+        android:title="@string/menu_calendrier"
+        app:showAsAction="withText" />
+    <item
+        android:id="@+id/action_credit"
+        android:enabled="true"
+        android:icon="@mipmap/credit_logo"
+        android:title="@string/credit"
+        app:showAsAction="withText" />
+</menu>
+

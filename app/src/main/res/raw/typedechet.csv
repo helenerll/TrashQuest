@@ -1,0 +1,18 @@
+Id,Materiaux,Type poubelle,Commentaire
+1,Bois,,
+2,Verre,Conteneur � verre,S�parer le verre blanc du verre color�
+3,PET / PEHD,Bleue,Ecraser les bouteilles
+4,Metal,Bleue,Attention : sauf feuilles aluminium !
+5,ELA (Emballage pour liquide alimentaire),Bleue,"Emballages vides et propres, � �craser."
+6,Alimentaire,Orange,"Sauf os, ar�tes, noyaux, coquilles d'oeufs et crustac�s"
+7,Huile,,
+8,Textile,,
+9,Papier,Jaune,Attention : ne pas jeter les magazines avec leur plastique d'emballage
+10,EMR (Emballage ménager récupéré),Jaune,"Carton entourant les yaourt, boite d'oeuf"
+11,Electroménager,,
+12,Multimédia,,
+13,Ampoules/Néon,,
+14,Déchets verts,Verte,
+15,Déchets  m�nagers,Blanche,
+16, Piles,,
+17, Cadavres d'animaux,,

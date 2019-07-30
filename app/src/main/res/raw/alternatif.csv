@@ -1,0 +1,119 @@
+CP (Ville),Ville,rue,type,typelieu
+1000,Bruxelles,Rue de Dinant 43,Oliobox,Bulle de collecte
+1000,Bruxelles,Rue du Persil 5,Oliobox,Bulle de collecte
+1000,Bruxelles,Avenue de l'Heliport,Oliobox,Bulle de collecte
+1020,Laeken,Place Joseph Benoit Willems 15,Oliobox,Bulle de collecte
+1020,Laeken,Avenue Jean Sobieski 13,Oliobox,Bulle de collecte
+1050,Ixelles,Avenue Huysmans 220,Oliobox,Bulle de collecte
+1040,Etterbeek,Avenue des Volontaires 149,Oliobox,Bulle de collecte
+1040,Etterbeek,Rue Baron Dhanis 17,Oliobox,Bulle de collecte
+1140,Evere,Avenue des Olympiades 12,Oliobox,Bulle de collecte
+1083,Ganshoren,Place Reine Fabiola,Oliobox,Bulle de collecte
+1083,Ganshoren,Place Reine Paola,Oliobox,Bulle de collecte
+1090,Jette,Chaussée de Wemmel,Oliobox,Bulle de collecte
+1090,Jette,Avenue du Laerbeek,Oliobox,Bulle de collecte
+1160,Auderghem,Boulevard du Souverain 240,Oliobox,Bulle de collecte
+1030,Schaerbeek,Place Meiser,Oliobox,Bulle de collecte
+1030,Schaerbeek,Place Dailly,Oliobox,Bulle de collecte
+1082,Berchem-Sainte-Agathe,Avenue Charles Quint 560,Oliobox,Bulle de collecte
+1210,Saint-Josse-ten-Noode,Rue du Moulin 41,Oliobox,Bulle de collecte
+1210,Saint-Josse-ten-Noode,Rue Verte 43,Oliobox,Bulle de collecte
+1180,Uccle,Rue Chamois 7,Oliobox,Bulle de collecte
+1180,Uccle,Place Saint-Job,Oliobox,Bulle de collecte
+1190,Forest,Chaussée de Bruxelles 112,Oliobox,Bulle de collecte
+1190,Forest,Rue Victor Rousseau,Oliobox,Bulle de collecte
+1170,Watermael-Boitsfort,Rue des Brebis 2,Oliobox,Bulle de collecte
+1170,Watermael-Boitsfort,Avenue des Archiducs,Oliobox,Bulle de collecte
+1070,Anderlecht,Avenue Marius Renard 27,Récupération piles ,Aldi
+1070,Anderlecht,Boulevard Sylvain Dupuis 315,Récupération piles ,Vanden Borre Shopping Westland
+1000,Bruxelles,Square de Meeus 30,Récupération piles ,Representation permanente de la Suède en U.E
+1000,Bruxelles,Rue de Flandres 111,Récupération piles ,M'Zale
+1050,Ixelles,Rue Malibran 36,Récupération piles ,La Boit'A Outils
+1050,Ixelles,Avenue de la Couronne 153,Récupération piles ,Delhaize Proxy
+1040,Etterbeek,Rue de l'Escadron 45,Récupération piles ,City Delhaize
+1040,Etterbeek,Rue de la Grande Haie 20,Récupération piles ,Delhaize Proxy
+1140,Evere,Chaussée de Haecht 1248,Récupération piles ,Aldi
+1140,Evere,Avenue Notre-Dame 131,Récupération piles ,Comptoir d'Image
+1083,Ganshoren,Avenue Van Overbeke 180,Récupération piles ,Delitraiteur
+1083,Ganshoren,Avenue Louis De Brouckere 70,Récupération piles ,Carrefour Express
+1090,Jette,Rue Ferdinand Lenoir 26,Récupération piles ,Espace Image
+1090,Jette,Rue Leopold 1er 374,Récupération piles ,Aldi
+1081,Koelkelberg,Avenue du Château 63,Récupération piles ,Carrefour Express
+1081,Koelkelberg,Place Eugène Simonis 2,Récupération piles ,Delhaize
+1160,Auderghem,Rue Jacques Bassem 7,Récupération piles ,Résidence Domitys L'Ecrin
+1160,Auderghem,Chaussée de Wavre 1528,Récupération piles ,Lontie
+1030,Schaerbeek,Rue de Jerusalem 60,Récupération piles ,Carrefour Market
+1030,Schaerbeek,Boulevard General Wahis 16eb,Récupération piles ,Athalys Film Video Team
+1082,Berchem-Sainte-Agathe,Rue de Grand Bigard 419,Récupération piles ,Delhaize Proxy
+1082,Berchem-Sainte-Agathe,Chaussée de Zellik 10,Récupération piles ,Lidl
+1060,Saint-Gilles,Chaussée de Waterloo 71,Récupération piles ,Match
+1060,Saint-Gilles,Rue Joseph Claes 68,Récupération piles ,Regards Nouveaux ASBL
+1080,Molenbeek-Saint-Jean,Rue de l'Intendant 53,Récupération piles ,Aldi
+1080,Molenbeek-Saint-Jean,Chaussée de Gand 106,Récupération piles ,Alvo
+1210,Saint-Josse-ten-Noode,Rue du Marteau 26,Récupération piles ,D.I.S.C ASBL
+1210,Saint-Josse-ten-Noode,Rue Willems 41,Récupération piles ,Juwelier Jenni
+1200,Woluwe-Saint-Lambert,Rue Saint-Lambert 202,Récupération piles ,Montre Service Woluwe Shopping Center
+1200,Woluwe-Saint-Lambert,Chaussée de Roodebeek 199,Récupération piles ,Delhaize
+1180,Uccle,Square Georges Marlow 10,Récupération piles ,Carrefour Market
+1180,Uccle,Chaussée d'Alsemberg 303,Récupération piles ,Carrefour Market
+1190,Forest,Avenue Victor Rousseau 208,Récupération piles ,Colruyt
+1190,Forest,Rue Berthelot 100,Récupération piles ,Delhaize
+1170,Watermael-Boitsfort,Place Eugene Keym 83,Récupération piles ,Carrefour Market
+1170,Watermael-Boitsfort,Rue des Begonias 10-16,Récupération piles ,Sequoia
+1020,Laeken,Avenue de l'Arbre Ballon 24,Récupération piles ,Carrefour Market
+1020,Laeken,Rue Medori 70,Récupération piles ,Home Juliette Herman
+1070,Anderlecht,Avenue Raymond Vander Bruggen 28,Récupération ampoules,Action
+1070,Anderlecht,Boulevard Sylvain Dupuis 433,Récupération ampoules,Vanden Borre Shopping Westland
+1000,Bruxelles,Rue de l'Evêque 30,Récupération ampoules,Decathlon
+1000,Bruxelles,Rue Neuve 13,Récupération ampoules,Hema
+1050,Ixelles,Rue Malibran 26,Récupération ampoules,Brico
+1050,Ixelles,Chaussée d'Ixelles 41,Récupération ampoules,Action Non Food
+1040,Etterbeek,Chaussée de Wavre 788,Récupération ampoules,Hema
+1040,Etterbeek,Rue de La Grande Haie 20,Récupération ampoules,Proxy Delhaize
+1140,Evere,Avenue Jules Bordet 1,Récupération ampoules,Decathlon
+1140,Evere,Chaussée de Haacht 1248,Récupération ampoules,Aldi
+1090,Jette,Chaussée de Jette 606,Récupération ampoules,Hema
+1090,Jette,Rue Pierre Timmerman 35,Récupération ampoules,Brico City
+1081,Koelkelberg,Chaussée de Gand 271,Récupération ampoules,Aldi
+1160,Auderghem,Chaussée de Wavre 1565,Récupération ampoules,Imetra Consult
+1160,Auderghem,Boulevard du Souverain 240,Récupération ampoules,Carrefour
+1030,Schaerbeek,Rue de Jerusalem 48,Récupération ampoules,Aldi
+1030,Schaerbeek,Rue Emile Verhaeren 84,Récupération ampoules,Delhaize Proxy
+1082,Berchem-Sainte-Agathe,Rue de Grand-Bigard 419,Récupération ampoules,Delhaize Proxy
+1060,Saint-Gilles,Rue Defacqz 77,Récupération ampoules,Proxy
+1060,Saint-Gilles,Chaussé de Charleroi 239,Récupération ampoules,Brico
+1080,Molenbeek-Saint-Jean,Rue de Ribaucourt 72,Récupération ampoules,Brico
+1080,Molenbeek-Saint-Jean,Rue de l'Intendant 53,Récupération ampoules,Aldi
+1210,Saint-Josse-ten-Noode,Passage Charles Rogier 30,Récupération ampoules,Brico
+1200,Woluwe-Saint-Lambert,Chaussée de Roodebeek 199,Récupération ampoules,Delhaize
+1200,Woluwe-Saint-Lambert,Rue Saint-Lambert 202,Récupération ampoules,Match
+1180,Uccle,Avenue de Fré 82,Récupération ampoules,Brico
+1180,Uccle,Chaussée de Waterloo 697,Récupération ampoules,Handyman
+1190,Forest,Chaussée d'Alsemberg 303,Récupération ampoules,Carrefour Market
+1190,Forest,Avenue Everard 40,Récupération ampoules,Etablissements R. Van Den Berg
+1170,Watermael-Boitsfort,Place Eugène Keym 83,Récupération ampoules,Carrefour Market
+1170,Watermael-Boitsfort,Rue Bien-Faire 88,Récupération ampoules,Bricomanie
+1020,Laeken,Rue de Molenbeek 94,Récupération ampoules,Aldi
+1020,Laeken,Rue Emile Delva 132,Récupération ampoules,Aldi
+1070,Anderlecht,Avenue Victor Olivier 1,Récupération textile,Bulle de collecte
+1000,Bruxelles,Place de la Chapelle ,Récupération textile,Bulle de collecte
+1050,Ixelles,Rue Jean-Paquot 63,Récupération textile,Bulle de collecte
+1040,Etterbeek,Square Docteur Jean Joly,Récupération textile,Bulle de collecte
+1140,Evere,Rue du Moulin à Vent 66,Récupération textile,Bulle de collecte
+1083,Ganshoren,Place Reine Fabiola,Récupération textile,Bulle de collecte
+1090,Jette,Rue Van Bortonne 75,Récupération textile,Bulle de collecte
+1160,Auderghem,Rue Robert Willame 29,Récupération textile,Bulle de collecte
+1030,Schaerbeek,Allée des Freesias 4,Récupération textile,Bulle de collecte
+1082,Berchem-Sainte-Agathe,Rue Mathieu Pauwels,Récupération textile,Bulle de collecte
+1060,Saint-Gilles,Rue Antoine Bréart 108,Récupération textile,Bulle de collecte
+1080,Molenbeek-Saint-Jean,Rue des Qautre-Vents 60,Récupération textile,Bulle de collecte
+1210,Saint-Josse-ten-Noode,Avenue Galilée 5,Récupération textile,Bulle de collecte
+1200,Woluwe-Saint-Lambert,Avenue Paul Hymans 127,Récupération textile,Bulle de collecte
+1180,Uccle,Rue du Coq 45,Récupération textile,Bulle de collecte
+1190,Forest,Avenue Victor Rousseau 149,Récupération textile,Bulle de collecte
+1170,Watermael-Boitsfort,Avenue des Taillis 1,Récupération textile,Bulle de collecte
+1020,Laeken,Avenue Jean Sobieski 13,Récupération textile,Bulle de collecte
+1190,Forest ,Boulevard de la deuxième Armée Britannique (face 671),Parc conteneur,Recypark Sud
+1190,Forest,Boulevard de l'Humanité 350,Parc conteneur,Recypark Humanité
+1000,Bruxelles,Rue de Rupel (près Pont Van Praet),Parc conteneur,Recypark Nord
+1160,Auderghem,Chaussée de Wavre 1860,Parc conteneur,Recypark Auderghem
